@@ -1,0 +1,21 @@
+{
+  "name": "jwt-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://phamminhtung91@gmail.com@source.developers.google.com:2022/p/helloworld-252808/r/jwt-demo"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "jest": "^24.9.0",
+    "jsonwebtoken": "^8.5.1"
+  }
+}
